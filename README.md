@@ -1,2 +1,2 @@
-# carrinho-ecommerce
-somente para testar funcionalidades e ferramentas , o codigo ta um zara
+# ecommerce-carrinho
+ criei so pra teste , ta uma zona muito grande 
