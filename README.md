@@ -1,2 +1,2 @@
 # ecommerce-carrinho
- criei so pra teste , ta uma zona muito grande 
+ criei so pra teste , o codigo ta um pouco baguncado irei organizar
